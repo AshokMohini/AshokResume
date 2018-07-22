@@ -1,0 +1,69 @@
+.parent
+{
+  display:flex;
+  width:100%;
+  border: 2px solid lime;
+}
+.left
+{
+  border:1px solid teal;
+  width:30%;
+  padding:2%;
+  margin:2%;
+  text-align: center;
+}
+.right
+{
+  border:2px solid teal;
+  width:70%;
+  padding:2%;
+  margin:2%;
+}
+img{
+  border-radius: 50%;
+  border: 2px solid skyblue;
+  width:75%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  /*box-shadow:8px 12px 20px black;*/
+}
+#co{
+  color: blue;
+  text-align: left;
+}
+#para{
+  color:red;
+  font-size: 20px;
+}
+#eq
+{
+  color:#F204C0;
+}
+#degree
+{
+  color:#04F22F;
+}
+ul
+{
+  color:#F204CE;
+}
+#ts
+{
+  color:#9F04F2;
+}
+table
+{
+  border: 1px solid;
+  font-size: 20px;
+}
+th
+{
+  border: 1px solid;
+  color:#F2043A;
+}
+td
+{
+  border: 1px solid;
+  color:#04F257;
+}
